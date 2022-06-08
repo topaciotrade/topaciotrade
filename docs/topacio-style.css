@@ -1,0 +1,39 @@
+.sidebar ul li.active>a{
+    color: #03a9f4;
+}
+main > aside.sidebar{
+    background: rgb(2,0,36);
+    background: linear-gradient(315deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 24%, rgba(0,212,255,1) 100%);
+}
+
+
+main > aside.sidebar ul li > a,
+main > aside.sidebar ul li.active,
+main > aside.sidebar ul li.active > a{
+    background-color: transparent;
+}
+
+main > aside.sidebar  a.section-link{
+    color: #fff;
+}
+main > button.sidebar-toggle{
+    width: 36px;
+    height: auto;
+    background-color: rgba(255,255,255,0.1);
+}
+/* #444ddd */
+a.app-name-link img{
+    filter: drop-shadow(7px 9px 4px rgba(2,0,36,0.5));
+}
+article#main p{
+    padding: 0 0.5em;
+    text-align: justify;
+    text-indent: 40px;
+}
+
+section.cover.show{
+    background-image: url(/_media/topacio_banner_1.png)!important;
+    background-size: cover!important;
+    background-position: center!important;
+    color: #fff;
+}
