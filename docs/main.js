@@ -17,11 +17,12 @@
 const data = {
   labels: [
     '10% Equipo - Bloqueado a 18 meses',
-    '10% Escalabilidad Plataforma del ecosistema Topacio',
+    '5% Escalabilidad Plataforma del ecosistema Topacio',
     '30% Modulo Staking Bloquedo',
-    '10% Framing',
-    '5% Ronda Semilla Bloqueado (12 meses)',
+    '12% Framing',
+    '3% Ronda Semilla Bloqueado (12 meses)',
     '5% Venta Privada Bloqueado',
+    '5% Venta Publica Panckageswap',
     '1% AirDrop Financiado por Parners',
     '5% parners inversion privada (Bloqueado a 12 meses)',
     '5% Marketing',
@@ -31,7 +32,7 @@ const data = {
   ],
   datasets: [{
     label: 'Tokenomic Distribution',
-    data: [10,10,30,10,5,5,1,5,5,5,4,10],
+    data: [10,5,30,12,3,5,5,1,5,5,5,4,10],
     backgroundColor: [
       '#264653',
       '#2a9d8f',
@@ -42,6 +43,7 @@ const data = {
       '#3a86ff',
       '#22333b',
       '#00f5d4',
+      '#007f5f',
       '#8ac926',
       '#c9184a',
       '#b7e4c7'
