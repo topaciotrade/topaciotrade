@@ -26,7 +26,7 @@ El proyecto Topacio, vino no a prometer, sino a la creación de algo Único, dis
 
 Todo el ecosistema de Topacio contará con la siguiente distribución, regido por su token de gobernanza 100% funcional y de utilidad real, en algunos casos brindando rendimientos en su ecosistema DEFI en Staking Block y Flexible.
 
-- 10% Bloqueado a 12 meses. transcurrido el periodo de Bloqueo max 20% cada 3 meses ( equivalente 2% ).
+- 10% Equipo - Bloqueado a 18 meses. transcurrido el periodo de Bloqueo max 20% cada 3 meses ( equivalente 2% ).
 - 10% Plataforma del ecosistema Topacio, escalabilidad y Desarrollo.
 - 30% Modulo Staking Bloquedo - bobeda de Staking Dedicada APIS de rendimiento Anual y Flexible.
 - 10% Framing.
@@ -39,6 +39,8 @@ Todo el ecosistema de Topacio contará con la siguiente distribución, regido po
 ( recompensas por duracion de staking [bonus] / trades exitosos / Eventos / financiacion de NFT's otorgados en eventos )
 - 4% Tesoreria.
 - 10% Bloquedo negociacion exchanges max 3% por exchange.
+
+<canvas id="tokenomic-chart" width="400" height="400"></canvas>
 
 
 
