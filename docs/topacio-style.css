@@ -28,7 +28,7 @@ a.app-name-link img{
 article#main p{
     padding: 0 0.5em;
     text-align: justify;
-    text-indent: 40px;
+    /*text-indent: 40px;*/
 }
 
 section.cover.show{

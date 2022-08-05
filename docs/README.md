@@ -27,11 +27,12 @@ El proyecto Topacio, vino no a prometer, sino a la creación de algo Único, dis
 Todo el ecosistema de Topacio contará con la siguiente distribución, regido por su token de gobernanza 100% funcional y de utilidad real, en algunos casos brindando rendimientos en su ecosistema DEFI en Staking Block y Flexible.
 
 - 10% Equipo - Bloqueado a 18 meses. transcurrido el periodo de Bloqueo max 20% cada 3 meses ( equivalente 2% ).
-- 10% Plataforma del ecosistema Topacio, escalabilidad y Desarrollo.
+- 5% Plataforma del ecosistema Topacio, escalabilidad y Desarrollo.
 - 30% Modulo Staking Bloquedo - bobeda de Staking Dedicada APIS de rendimiento Anual y Flexible.
-- 10% Framing.
-- 5% Ronda Semilla Bloqueado (12 meses).
+- 12% Framing.
+- 3% Ronda Semilla Bloqueado (12 meses).
 - 5% Venta Privada Bloqueado (12 meses).
+- 5% Venta Publica (Pancakageswap).
 - 1% AirDrop Financiado por Parners.
 - 5% parners inversion privada (Bloqueado a 12 meses) liberacion 25% cada 3 meses
 - 5% Marketing
@@ -51,6 +52,55 @@ En el ecosistema de Topacio Trade, contará con su Token de gobernanza nativo el
 Igualmente contará con un Marketplace independiente, pudiendo Obtener NFT del ecosistema de Topacio, donde su moneda nativa será Topacio Token de Gobernanza, incentivando Uso y consumo del mismo, cabe destacar que al alcanzar un minteo sobre los primeros 1000 NFT generados exclusivamente se podrán mintear con Topacio Token de gobernanza. Los NFT de su temporada Génesis será publicada y abierto el mint por periodos cortos y en eventos exclusivos.
 
 Dando uso completo y demanda de su Token en todo su ecosistema, aparte de su funcionalidad y consumo activo, cabe destacar que Topacio es sumamente escaso he incentiva el Staking para todos sus holder, con bóvedas de staking block contaran con rendimientos tanto anuales como flexibles, en sus módulos de staking y framing. 
+
+# Utilidad del token
+    
+    ¿Cuál será la utilidad del token; es decir, 
+    cuál es el valor de poseer el token o será de especulación? 
+    ¿Para qué se usa el Token?.
+
+- Fungira como Token único de gobernanza, con la existencia única de 100.000.000 (100 millones de tokens únicamente) .
+
+- A futuro exclusivamente se adquirirán o pagarán las suscripciones a la plataforma Topacio únicamente con topacio, es decir las personas que deseen suscribirse, necesitarán pagar su suscripción en Topacio, ocasionando demanda del mismo  y necesidad del token, Ejemplo si la suscripción mensual sale en 15$, deberán tener el equivalente a 15$ en Topacio (Demanda continua de Topacio). 
+
+- El NFT para su Adquisición después de la venta semilla  exclusivamente  se podrá adquirir con Topacio (Deberán comprar su Token de Gobernanza), con este NFT es con que se podrán acceder a las automatizaciones, cuando estén listas (Más Demanda por Topacio).
+
+- cuando se lance la venta pública del token en panckageSawp se podrá comprar y vender libremente y las personas podrán especular con su precio. o holdear como lo deseen.
+
+- El Marketplace donde se negociarán los NTF, única y exclusivamente cobrará en su token de gobernanza (TOPACIO).
+
+- Staking el 35% del supply (existencia), se encontrará bloqueado, y repartido en módulo de stacking bloqueado dando Rendimiento anuales APR distribuido entre  todos sus Holders de acuerdo a su participación en el Stacking de su Token Topacio, ocasionando la demanda del mismo para todos sus inversores.(confianza en el proyecto e inversión a largo plazo en un activo escaso)
+
+- Automatizaciones - para la ejecución de las automatizaciones se requerirá aparte de poseer un NFT de Topacio, se cobrará una pequeña comisión en su toquen nativo de gobernanza. (TOPACIO). RESUMEN nadie se querrá quedar sin topacio.
+
+# Objetivos Fituros y alcances
+    
+su objetivo será la automatizacion total y en un ecosistema tokenizado con funcionalidad real y activa, expansión continua, donde sus últimos puntos quedarán contemplado ampliación  e integración a otros Exchanges a medida de lo posible y abarcar análisis en el Stock Market (Mercado tradicional de acciones) Nasdaq SP500 Forex y otros.  
+
+# Calendario de desbloqueo
+
+**RONDA SEMILLA** Socios Inversores y capitalización inicial para levantar el capital
+Esa liquidez será bloqueada para el capital y precio base que le dará el precio inicial cuando se lance la venta pública.
+Sumamente privada
+Cantidad de tiempo de bloqueo. 18 Meses (Block) % de liberación. 20% cada 3 meses.
+Precio de ronda. (en estudio aún  se estima alrededor de 0.10)
+
+**RONDA PRIVADA** - PRE VENTA
+acceso a través de White list limitada la cantidad máxima de tokens por persona
+Precio de ronda. (en estudio aún  se estima alrededor de 0.15)
+Cantidad de tiempo de bloqueo. 12 Meses (Block)
+% de liberación. 20% cada 3 meses
+
+**VENTA PÚBLICA Y LANZAMIENTO EN pancakeswap** 
+(en estudio aún  se estima alrededor de 0.25)
+venta pública sin bloqueo.
+
+# ¿Qué plan se tiene en mente para que la capitalización de mercado prevenga manipulaciones?
+
+se tiene pensado en su smart-contrac limitar el máximo de venta no permitir que existan ventas o transacciones superior al 1% del supply. (aún en evaluación ya que para inclusión y listados en exchanges exigen más de esa cantidad para inclusión)
+
+diversificar al máximo la distribución de la venta privada (PRE-VENTA) para captación y gran cantidad de público y contar con una distribución mixta en este lanzamiento, minimo un mes y medio antes (45 días) debe existir un buen marketing  y campañas fuertes y organizadas.
+
 
 
 # Roadmap
