@@ -39,6 +39,11 @@ section.cover.show{
     color: #fff;
 }
 
+p.container-chart{
+    width: 100%;
+    padding: 0 15%!important;
+}
+
 /*
 canvas#tokenomic-chart{
     width: 700px!important;

@@ -41,7 +41,9 @@ Todo el ecosistema de Topacio contará con la siguiente distribución, regido po
 - 4% Tesoreria.
 - 10% Bloquedo negociacion exchanges max 3% por exchange.
 
-<canvas id="tokenomic-chart" width="400" height="400"></canvas>
+<p class="container-chart">
+    <canvas id="tokenomic-chart" width="400" height="400"></canvas>
+</p>
 
 
 
