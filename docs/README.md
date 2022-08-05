@@ -92,7 +92,6 @@ Cantidad de tiempo de bloqueo. 12 Meses (Block)
 % de liberación. 20% cada 3 meses
 
 **VENTA PÚBLICA Y LANZAMIENTO EN pancakeswap** 
-(en estudio aún  se estima alrededor de 0.25)
 venta pública sin bloqueo.
 
 # ¿Qué plan se tiene en mente para que la capitalización de mercado prevenga manipulaciones?
