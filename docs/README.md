@@ -71,7 +71,7 @@ Dando uso completo y demanda de su Token en todo su ecosistema, aparte de su fun
 
 - El Marketplace donde se negociarán los NTF, única y exclusivamente cobrará en su token de gobernanza (TOPACIO).
 
-- Staking el 35% del supply (existencia), se encontrará bloqueado, y repartido en módulo de stacking bloqueado dando Rendimiento anuales APR distribuido entre  todos sus Holders de acuerdo a su participación en el Stacking de su Token Topacio, ocasionando la demanda del mismo para todos sus inversores.(confianza en el proyecto e inversión a largo plazo en un activo escaso)
+- Staking el 35% del supply (existencia), se encontrará bloqueado, y repartido en módulo de Staking bloqueado dando Rendimiento anuales APR distribuido entre  todos sus Holders de acuerdo a su participación en el Staking de su Token Topacio, ocasionando la demanda del mismo para todos sus inversores.(confianza en el proyecto e inversión a largo plazo en un activo escaso)
 
 - Automatizaciones - para la ejecución de las automatizaciones se requerirá aparte de poseer un NFT de Topacio, se cobrará una pequeña comisión en su toquen nativo de gobernanza. (TOPACIO). RESUMEN nadie se querrá quedar sin topacio.
 
@@ -93,7 +93,7 @@ Precio de ronda. (en estudio aún  se estima alrededor de 0.15)
 Cantidad de tiempo de bloqueo. 12 Meses (Block)
 % de liberación. 20% cada 3 meses
 
-**VENTA PÚBLICA Y LANZAMIENTO EN pancakeswap** 
+**VENTA PÚBLICA Y LANZAMIENTO EN pancakeSwap** 
 venta pública sin bloqueo.
 
 # ¿Qué plan se tiene en mente para que la capitalización de mercado prevenga manipulaciones?
