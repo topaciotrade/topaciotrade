@@ -32,8 +32,8 @@ article#main p{
 }
 
 section.cover.show{
-    /*background-image: url(/_media/topacio_banner_1.png)!important;*/
-    background-image: url(https://ipfs.io/ipfs/QmXYXPsSHiCJ1BAmNyRMVcFXcAsLCJsCmg4FSR5zyzeHFb)!important;
+    background-image: url(/_media/topacio_banner_1.png)!important;
+    /*background-image: url(https://ipfs.io/ipfs/QmaGr2w5eZ4bLscXjVzoCZ9T2wJ63TDQB5PxeHEaCf78JR)!important;*/
     background-size: cover!important;
     background-position: center!important;
     color: #fff;
