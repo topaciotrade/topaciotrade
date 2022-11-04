@@ -20,6 +20,25 @@ Contando con múltiples propósitos, un token de gobernanza TOPACIO, un NFT con 
 
 El proyecto Topacio, vino no a prometer, sino a la creación de algo Único, disruptivo totalmente diferente y funcional completamente, Tanto en su ecosistema de NFT que no solo se basa en imágenes bonitas sino en su funcionalidad real lo que hace y materializa y genera, no será un Juego o una moda pasajera de solo unos días, vino para quedarse y hacer las cosas bien y con la maxima calidad posible, vino a ser sino un escudo y herramienta que te permita Optimizar al máximo tus trades y que te funcione en cualquier mercado sin importar la tendencia del mismo, no tanto ofrecer promesas, sino cumplir con un tenemos, hace, funciona, posee, realiza y trabaja de las siguientes formas y maneras, que los usuarios puedan contemplar el uso real desde su fase temprana hasta su ecosistema completado.
 
+# Que son los Fragmentos de Gema NFT's
+
+La generación génesis de fragmentos es la colección inicial representada por 24 variedades de fragmentos de gemas. Los cuales no solo son coleccionables sino que a todos sus holders iniciales que alcance reunir 8 fragmentos sin importar la variedad pondrá mintear en su liberación en NFT Completo de Topacio (totalmente funcional), dondé cada fragmento representa una de las caras del logo de topacio, a la hora de liberación de este módulo cabe destacar al realizar el claim del NFT de Topacio esos 8 fragmentos son quemados, así pudiendo alcanzar un NFT de Topacio Único que podrá ser de cualquier rareza totalmente aleatoria regida por SmartContract, aumentando la escasez, ya que no todo tiempo estaría disponible los fragmentos en su etapa inicial exclusivamente en temporadas de eventos.
+
+# ¿ Qué son las Subscripciones?
+
+Son 31 días de acceso al ecosistema de Topacio, acceso al canal privado de Telegram y a el bot de notificaciones por cada subscripción se obtiene un Ticket alojado en la blockchain, por cada 3 tickets acumulados podrás canjearlos por fragmentos de Gema y canje de premios de las bóvedas de Eventos también alojadas en la Blockchain. 
+
+# ¿Como obtener fragmentos de gema?
+
+En su etapa inicial las subscripciones se habilitarán en eventos y por tiempo limitado y cupos limitados a una subscripción, este sistema de subscripciones corriendo en la blockchain, por cada subscripción adquirida asignará un ticket, y con 3 de estos tickets podrás canjear por uno de estos fragmentos alojado en una bóveda, la cual mensualmente se abastecerá con una cantidad de fragmentos finitos y escasos.
+
+La segunda forma es atrevés del módulo de crafting cuando se encuentre activo, los usuarios que posean su NFT de Topacio podrán destruirlo en caso de querer reconstruir un nuevo NFT reuniendo 8 fragmentos, quemando este NFT y liberando Fragmentos de acuerdo a los atributos y rareza de su NFT.
+
+
+# ¿Qué pasa con mis tickets, si se agotaron los fragmentos disponibles en ese mes?
+
+Si a la hora de canje ya no hay fragmentos disponibles también existirá un módulo de recompensas y claim (canje) de los tickets, donde existirán premios de diversos tickets como extensión de subscripción, y NFT's de diferentes tipos tanto de fragmentos como de Topacio, todos únicamente podrás sacarlos de estas bóvedas con estos Tickets, variando dependiendo de la recompensa pedirá un número de tickets.
+
 # Tokenomic
 
 * Distrubucion y token de gobernanza
