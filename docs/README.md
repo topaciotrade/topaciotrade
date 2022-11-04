@@ -5,6 +5,8 @@
  <div>
   <button @click="count -= 1">{{ count }}</button>
 <div>
+
+![Fragmentos](_media/fragmentos.png)
  -->
 Topacio nace como una herramienta que tiene el objetivo de apoyar a los traders, inversionistas y personas que quieren empezar en el mundo de las criptomonedas a tomar las decisiones más acertadas en los diferentes escenarios de volatilidad en el mercado, con el fin de evitar perder el capital por violentos movimientos y terminar atrapado en una mala posición por mucho tiempo. Aquí nacen los cuestionamientos: ¿Hay alguna manera de identificar el mejor precio para un activo? ¿Existe alguna forma de detectar la reversión de una tendencia?, por ese motivo se inició el desarrollo de esta herramienta, la cual se centra en analizar y seleccionar los mejores momentos para comprar y vender tus criptomonedas.
 
@@ -25,7 +27,7 @@ El proyecto Topacio, vino no a prometer, sino a la creación de algo Único, dis
 La generación génesis de fragmentos es la colección inicial representada por 24 variedades de fragmentos de gemas. Los cuales no solo son coleccionables sino que a todos sus holders iniciales que alcance reunir 8 fragmentos sin importar la variedad pondrá mintear en su liberación en NFT Completo de Topacio (totalmente funcional), dondé cada fragmento representa una de las caras del logo de topacio, a la hora de liberación de este módulo cabe destacar al realizar el claim del NFT de Topacio esos 8 fragmentos son quemados, así pudiendo alcanzar un NFT de Topacio Único que podrá ser de cualquier rareza totalmente aleatoria regida por SmartContract, aumentando la escasez, ya que no todo tiempo estaría disponible los fragmentos en su etapa inicial exclusivamente en temporadas de eventos.
 
 <p align="center" width="100%">
-![Fragmentos](_media/fragmentos.png)
+  <img align="center" width="90%" src="https://docs.topacio.trade/_media/fragmentos.png">
 </p>
 
 # ¿ Qué son las Subscripciones?
