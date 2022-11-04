@@ -1,4 +1,4 @@
-![logo](_media/1.svg)
+
 
 # [Topacio Trade](#proyecto-topacio) <small>0.1.1 Alpha</small>
 
