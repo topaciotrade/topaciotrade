@@ -19,6 +19,30 @@
      id="defs1054">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient25423">
+      <stop
+         style="stop-color:#29a6d6;stop-opacity:0.98823529;"
+         offset="0"
+         id="stop25419" />
+      <stop
+         style="stop-color:#006eb5;stop-opacity:0.98823529"
+         offset="1"
+         id="stop25421" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12924">
+      <stop
+         style="stop-color:#006dad;stop-opacity:1;"
+         offset="0"
+         id="stop12920" />
+      <stop
+         style="stop-color:#28a5d4;stop-opacity:0.98823529;"
+         offset="1"
+         id="stop12922" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient1824">
       <stop
          style="stop-color:#009edf;stop-opacity:0.57689989;"
@@ -193,7 +217,7 @@
        inkscape:collect="always"
        id="linearGradient1249">
       <stop
-         style="stop-color:#f8fdff;stop-opacity:0.69999999;"
+         style="stop-color:#f8fdff;stop-opacity:0.62369794;"
          offset="0"
          id="stop1245" />
       <stop
@@ -407,17 +431,17 @@
          id="feBlend10992" />
     </filter>
     <filter
-       y="-0.10331205"
-       height="1.2066241"
+       y="-0.033734548"
+       height="1.0674691"
        inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
        inkscape:menu="Shadows and Glows"
        inkscape:label="Dark and Glow"
        style="color-interpolation-filters:sRGB;"
        id="filter11006"
-       x="-0.25471027"
-       width="1.5094205">
+       x="-0.083170704"
+       width="1.1663414">
       <feGaussianBlur
-         stdDeviation="0.46325369"
+         stdDeviation="0.15126651"
          result="result6"
          id="feGaussianBlur10996" />
       <feComposite
@@ -443,17 +467,17 @@
          id="feBlend11004" />
     </filter>
     <filter
-       y="-0.10408404"
-       height="1.2081681"
+       y="-0.033986624"
+       height="1.0679732"
        inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
        inkscape:menu="Shadows and Glows"
        inkscape:label="Dark and Glow"
        style="color-interpolation-filters:sRGB;"
        id="filter11018"
-       x="-0.25013627"
-       width="1.5002725">
+       x="-0.08167715"
+       width="1.1633543">
       <feGaussianBlur
-         stdDeviation="0.46671533"
+         stdDeviation="0.15239684"
          result="result6"
          id="feGaussianBlur11008" />
       <feComposite
@@ -658,6 +682,25 @@
          in2="result6"
          id="feBlend11076" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12924"
+       id="linearGradient12926"
+       x1="27.050377"
+       y1="37.033192"
+       x2="24.116707"
+       y2="34.607548"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient25423"
+       id="linearGradient22312"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-10.958605,2.4004104)"
+       x1="137.53265"
+       y1="119.54967"
+       x2="122.90303"
+       y2="130.34988" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -666,9 +709,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="54.800776"
-     inkscape:cy="150.76527"
+     inkscape:zoom="5.6"
+     inkscape:cx="120.26786"
+     inkscape:cy="185.80357"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -748,7 +791,7 @@
        inkscape:label="t_izquierda" />
     <path
        id="path979"
-       style="opacity:0.95;mix-blend-mode:normal;fill:#0179c0;fill-opacity:0.988235;stroke:none;stroke-width:1.29515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.984314;paint-order:stroke fill markers;stop-color:#000000;filter:url(#filter11006)"
+       style="opacity:0.95;mix-blend-mode:normal;fill:url(#linearGradient12926);fill-opacity:1;stroke:none;stroke-width:1.29515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.984314;paint-order:stroke fill markers;stop-color:#000000;filter:url(#filter11006)"
        d="m 29.77362,34.931775 c 0,0 0.413036,0.112654 0.385929,0.65673 -0.02707,0.544081 -0.399952,0.562975 -0.399952,0.562975 H 29.084748 28.4099 27.735045 27.060197 l -0.0067,0.578459 -0.0067,0.578461 -0.0067,0.578461 -0.0067,0.578459 -0.0067,0.578461 -0.0067,0.578458 -0.0067,0.578464 -0.0067,0.578459 -0.0067,0.578458 -0.0067,0.578461 -0.0067,0.578462 -0.0067,0.578458 -0.0067,0.578461 -0.0067,0.578459 -0.0067,0.578464 -0.0067,0.578458 c 0,0 -0.178348,0.286589 -0.567024,0.286589 -0.429209,0 -0.59014,-0.286589 -0.59014,-0.286589 l 0.106408,-9.255363 0.007,-0.609851 0.0035,-0.304927 c 0.0011,-0.101642 0.0055,-0.16042 0.07455,-0.232294 0.06901,-0.07183 0.12182,-0.07263 0.218247,-0.07263 h 0.289293 0.57858 z"
        sodipodi:nodetypes="czcccccccccccccccccccccsccssssscc" />
     <path
@@ -758,7 +801,7 @@
        inkscape:label="#brillo" />
     <path
        id="path6290"
-       style="opacity:0.95;mix-blend-mode:normal;fill:url(#linearGradient1333);fill-opacity:1;stroke:none;stroke-width:1.32932;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.984314;paint-order:stroke fill markers;stop-color:#000000;filter:url(#filter11018)"
+       style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient22312);fill-opacity:1;stroke:none;stroke-width:1.32932;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.984314;paint-order:stroke fill markers;stop-color:#000000;filter:url(#filter11018)"
        d="m 21.079957,34.949856 c 0,0 -0.43648,0.112652 -0.414512,0.656731 0.02193,0.544078 0.414512,0.562972 0.414512,0.562972 h 0.710922 0.710922 0.710925 0.710925 v 0.578456 0.578464 0.578458 0.578459 0.578464 0.578458 0.578464 0.578459 0.578458 0.578461 0.578462 0.578455 0.578464 0.578459 0.578464 0.578458 c 0,0 0.184412,0.286592 0.593863,0.286592 0.452151,0 0.625155,-0.286592 0.625155,-0.286592 v -9.255363 -0.609854 -0.304924 c 0,-0.10164 -0.0039,-0.16042 -0.07572,-0.232291 -0.07183,-0.07183 -0.127453,-0.07263 -0.229039,-0.07263 h -0.304753 -0.60951 z"
        sodipodi:nodetypes="czcccccccccccccccccccccsccssssscc"
        inkscape:label="t_izquierda" />
