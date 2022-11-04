@@ -44,7 +44,7 @@ La segunda forma es atrevés del módulo de crafting cuando se encuentre activo,
 
 Si a la hora de canje ya no hay fragmentos disponibles también existirá un módulo de recompensas y claim (canje) de los tickets, donde existirán premios de diversos tickets como extensión de subscripción, y NFT's de diferentes tipos tanto de fragmentos como de Topacio, todos únicamente podrás sacarlos de estas bóvedas con estos Tickets, variando dependiendo de la recompensa pedirá un número de tickets.
 
-<div class="contenedor-title-tokenomic">
+<div class="contenedor-title-tokenomic" style="display: flex;justify-content: center;align-content: center;align-items: center;text-transform: uppercase;">
 
 # Tokenomic
 
