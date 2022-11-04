@@ -12,10 +12,9 @@ Topacio nace como una herramienta que tiene el objetivo de apoyar a los traders,
 
 Durante mucho tiempo, luego de varias evidencias, estudios de personas talentosas y apasionadas, hemos recopilado suficiente información congruente y de esta forma, aplicado un análisis efectivo en diversos escenarios, para desarrollar ésta poderosa herramienta, que llamamos Topacio Trade; la cual procesa varias capas de información alcanzando hasta un 90% de efectividad, realizando lanzamientos automatizados de compra y venta de acuerdo a la configuración fijada por el mismo usuario conforme a sus planes y preferencias de inversión.
 
-Contando con múltiples propósitos, un token de gobernanza TOPACIO, un NFT con utilidad para usar el sistema automatizado, dependiendo de su rareza y el marketplace donde podrás comprar y vender tu NFT, o sí prefieres hacer stakearlo y recibir el token de gobernanza. Ponemos a disposición del usuario una quema agresiva de su NFT el cual tendrá, una cantidad finita de operaciones usándolo para generar automatizaciones e ingresos con base a sus preferencias de trader hasta agotarse, así con las ganancias generadas en sus operaciones podrá volver al marketplace y comprar otro NFT, que se ajuste a sus necesidades, creando así la quema constante y definitivamente una economía sana dentro de la plataforma.
+Contando con múltiples propósitos, un token de gobernanza TOPACIO, un NFT con utilidad para usar el sistema automatizado, dependiendo de su rareza y se desarrollará su módulo de marketplace independiente donde podrás comprar y vender tu NFT, o sí prefieres hacer staking y recibir el token de gobernanza en un módulo de staking con un NFT de Topacio Totalmente funcional. Ponemos a disposición del usuario una quema agresiva de su NFT el cual tendrá lógica de implementación a la hora de hacer crafting (módulo donde se destruirán y forjaran autenticas Gemas), generando así la quema constante y una economía sana dentro de la plataforma.
 
-
-?> Para estar al dia de las actualizaciones oficiales y eventos de `Topacio Trade`, te recomendamos seguir el canal oficial de twitter [@topacioTrade](https://twitter.com/TopacioTrade).
+> Para estar al dia de las actualizaciones oficiales y eventos de `Topacio Trade`, te recomendamos seguir el canal oficial de twitter [@topacioTrade](https://twitter.com/TopacioTrade).
 
 
 # Caracteristicas del proyecto Topacio
