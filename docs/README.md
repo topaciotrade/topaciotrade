@@ -8,7 +8,7 @@
 
 ![Fragmentos](_media/fragmentos.png)
  -->
-Topacio nace como una herramienta que tiene el objetivo de apoyar a los traders, inversionistas y personas que quieren empezar en el mundo de las criptomonedas a tomar las decisiones más acertadas en los diferentes escenarios de volatilidad en el mercado, con el fin de evitar perder el capital por violentos movimientos y terminar atrapado en una mala posición por mucho tiempo. Aquí nacen los cuestionamientos: ¿Hay alguna manera de identificar el mejor precio para un activo? ¿Existe alguna forma de detectar la reversión de una tendencia?, por ese motivo se inició el desarrollo de esta herramienta, la cual se centra en analizar y seleccionar los mejores momentos para comprar y vender tus criptomonedas.
+Topacio nace como una herramienta que tiene el objetivo de apoyar a los traders, inversionistas y personas que quieren empezar en el mundo de las criptomonedas a tomar las decisiones más acertadas en los diferentes escenarios de volatilidad en el mercado, con el fin de evitar perder el capital por violentos movimientos y terminar atrapado en una mala posición por mucho tiempo. Aquí nacen los cuestionamientos: ¿Hay alguna manera de identificar el mejor precio para un activo? ¿Existe alguna forma de detectar la reversión de una tendencia?, por ese motivo se inició el desarrollo de esta herramienta, la cual se centra en analizar y seleccionar los mejores momentos para comprar y vender tus criptomonedas, evitar los rangos en su esencia enfocada para operativas de extremos y no estar metido en el mercado de continuo sino operar los mejores momentos y con las probabilidades.
 
 Durante mucho tiempo, luego de varias evidencias, estudios de personas talentosas y apasionadas, hemos recopilado suficiente información congruente y de esta forma, aplicado un análisis efectivo en diversos escenarios, para desarrollar ésta poderosa herramienta, que llamamos Topacio Trade; la cual procesa varias capas de información alcanzando hasta un 90% de efectividad, realizando lanzamientos automatizados de compra y venta de acuerdo a la configuración fijada por el mismo usuario conforme a sus planes y preferencias de inversión.
 
@@ -83,7 +83,7 @@ En el ecosistema de Topacio Trade, contará con su Token de gobernanza nativo el
 
 Igualmente contará con un Marketplace independiente, pudiendo Obtener NFT del ecosistema de Topacio, donde su moneda nativa será Topacio Token de Gobernanza, incentivando Uso y consumo del mismo, cabe destacar que al alcanzar un minteo sobre los primeros 1000 NFT generados exclusivamente se podrán mintear con Topacio Token de gobernanza. Los NFT de su temporada Génesis será publicada y abierto el mint por periodos cortos y en eventos exclusivos.
 
-Dando uso completo y demanda de su Token en todo su ecosistema, aparte de su funcionalidad y consumo activo, cabe destacar que Topacio es sumamente escaso he incentiva el Staking para todos sus holder, con bóvedas de staking block contaran con rendimientos tanto anuales como flexibles, en sus módulos de staking y framing. 
+Dando uso completo y demanda de su Token en todo su ecosistema, aparte de su funcionalidad y consumo activo, cabe destacar que Topacio es sumamente escaso he incentiva el Staking para todos sus holder, con bóvedas de staking block contaran con rendimientos tanto anuales como flexibles, en sus módulos de staking y framing pudiendo potenciar tu staking agregando tus NFT. 
 
 # Utilidad del token
     
