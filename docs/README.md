@@ -41,6 +41,8 @@ En su etapa inicial las subscripciones se habilitarán en eventos y por tiempo l
 
 La segunda forma es atrevés del módulo de crafting cuando se encuentre activo, los usuarios que posean su NFT de Topacio podrán destruirlo en caso de querer reconstruir un nuevo NFT reuniendo 8 fragmentos, quemando este NFT y liberando Fragmentos de acuerdo a los atributos y rareza de su NFT.
 
+# ¿En que transformaras los fragmentos?
+
 <iframe width="560" height="315" style="margin: 20px 0%;" src="https://www.youtube.com/embed/AhD9VKwnyGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # ¿Qué pasa con mis tickets, si se agotaron los fragmentos disponibles en ese mes?
