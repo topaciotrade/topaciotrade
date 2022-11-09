@@ -29,8 +29,7 @@ La generación génesis de fragmentos es la colección inicial representada por 
   <img align="center" width="100%" src="https://docs.topacio.trade/_media/fragmentos.png">
 </p>
 
-<iframe width="560" height="315" style="margin: 20px 0%;" src="https://www.youtube.com/embed/LdTQ7wAPbKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" style="margin: 20px 0%;" src="https://www.youtube.com/embed/QthXbOpS5AA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 # ¿ Qué son las Subscripciones?
 
 Son 31 días de acceso al ecosistema de Topacio, acceso al canal privado de Telegram y a el bot de notificaciones por cada subscripción se obtiene un Ticket alojado en la blockchain, por cada 3 tickets acumulados podrás canjearlos por fragmentos de Gema y canje de premios de las bóvedas de Eventos también alojadas en la Blockchain. 
