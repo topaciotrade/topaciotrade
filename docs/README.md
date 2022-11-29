@@ -8,22 +8,30 @@
 
 ![Fragmentos](_media/fragmentos.png)
  -->
-Topacio nace como una herramienta que tiene el objetivo de apoyar a los traders, inversionistas y personas que quieren empezar en el mundo de las criptomonedas a tomar las decisiones más acertadas en los diferentes escenarios de volatilidad en el mercado, con el fin de evitar perder el capital por violentos movimientos y terminar atrapado en una mala posición por mucho tiempo. Aquí nacen los cuestionamientos: ¿Hay alguna manera de identificar el mejor precio para un activo? ¿Existe alguna forma de detectar la reversión de una tendencia?, por ese motivo se inició el desarrollo de esta herramienta, la cual se centra en analizar y seleccionar los mejores momentos para comprar y vender tus criptomonedas, evitar los rangos en su esencia enfocada para operativas de extremos y no estar metido en el mercado de continuo sino operar los mejores momentos y con las probabilidades.
+ 
+Topacio nace como una herramienta que tiene el objetivo de apoyar a los traders, inversionistas y personas que quieren empezar en el mundo de las criptomonedas a tomar las decisiones más acertadas en los diferentes escenarios de volatilidad en el mercado, con el fin de evitar perder el capital por violentos movimientos y terminar atrapado en una mala posición por mucho tiempo o teniendo que cerrar la misma en perdidas. Es aquí donde nacen algunos cuestionamientos: ¿Hay alguna manera de identificar el mejor precio en un activo cuando queremos abrir una posición bien sea al alza o a la baja? ¿Existe alguna forma de detectar la reversión de una tendencia e irnos con el movimiento desde su origen? ¿cómo podemos detectar cuando hay manipulación del precio para no caer en las trampas de aquellos que mueven el mercado? Estas preguntas han sido el catalizador por el cual se inició el desarrollo de esta herramienta, la cual se centra en analizar y seleccionar los mejores momentos para comprar y vender tus criptomonedas, tanto en el mercado spot como en el mercado de futuros y asi evitar los rangos. Topacio en su esencia esta enfocado para operativas de extremos y no estar metido en el mercado de continuo sino operar los mejores momentos y con las probabilidades a tu favor.
 
-Durante mucho tiempo, luego de varias evidencias, estudios de personas talentosas y apasionadas, hemos recopilado suficiente información congruente y de esta forma, aplicado un análisis efectivo en diversos escenarios, para desarrollar ésta poderosa herramienta, que llamamos Topacio Trade; la cual procesa varias capas de información alcanzando hasta un 90% de efectividad, realizando lanzamientos automatizados de compra y venta de acuerdo a la configuración fijada por el mismo usuario conforme a sus planes y preferencias de inversión.
+Durante mucho tiempo, luego de varias evidencias, estudios, y pruebas de personas talentosas y apasionadas, hemos recopilado suficiente información congruente; esta Información la hemos aplicado a un análisis efectivo en diversos escenarios del mercado, para desarrollar ésta poderosa herramienta que llamamos Topacio Trade; la cual procesa varias capas de información alcanzando hasta un 90% de efectividad en distintas operativas temporales, realizando lanzamientos automatizados de compra y venta de acuerdo a la configuración fijada por el mismo usuario, conforme a sus planes de trading y preferencias de inversión.
 
-Contando con múltiples propósitos, un token de gobernanza TOPACIO, un NFT con utilidad para usar el sistema automatizado, dependiendo de su rareza y se desarrollará su módulo de marketplace independiente donde podrás comprar y vender tu NFT, o sí prefieres hacer staking y recibir el token de gobernanza en un módulo de staking con un NFT de Topacio Totalmente funcional. Ponemos a disposición del usuario una quema agresiva de su NFT el cual tendrá lógica de implementación a la hora de hacer crafting (módulo donde se destruirán y forjaran autenticas Gemas), generando así la quema constante y una economía sana dentro de la plataforma.
+Para completar la interactividad del usuario y el ecosistema de Topacio trading y contando con múltiples propósitos, Topacio cuenta un token de gobernanza llamado "TOPACIO", ademas el usuario podrá acceder a un NFT con utilidad para usar el sistema automatizado, estos NFT's tendrán su desarrollo en  un módulo de marketplace independiente donde el trader podrá comprar y vender su NFT, o sí prefiere, podar hacer staking y recibir como recompensa el token de gobernanza. 
+
+
 
 > Para estar al dia de las actualizaciones oficiales y eventos de `Topacio Trade`, te recomendamos seguir el canal oficial de twitter [@topacioTrade](https://twitter.com/TopacioTrade).
 
 
 # Caracteristicas del proyecto Topacio
 
-El proyecto Topacio, vino no a prometer, sino a la creación de algo Único, disruptivo totalmente diferente y funcional completamente, Tanto en su ecosistema de NFT que no solo se basa en imágenes bonitas sino en su funcionalidad real lo que hace y materializa y genera, no será un Juego o una moda pasajera de solo unos días, vino para quedarse y hacer las cosas bien y con la maxima calidad posible, vino a ser sino un escudo y herramienta que te permita Optimizar al máximo tus trades y que te funcione en cualquier mercado sin importar la tendencia del mismo, no tanto ofrecer promesas, sino cumplir con un tenemos, hace, funciona, posee, realiza y trabaja de las siguientes formas y maneras, que los usuarios puedan contemplar el uso real desde su fase temprana hasta su ecosistema completado.
+El proyecto Topacio Trading tiene la visión y el propósito de la creación de una herramienta Única, disruptiva, totalmente diferente y completamente funcional. Al ser un proyecto que corre sobre la blockchain se ha escogido como nido la cadena de bloques de Polygon, como sabemos este un proyecto de escalabilidad de capa 2 el cual permite que aplicaciones descentralizadas puedan ejecutarse en una red, su ventaja a diferencia de operar directamente sobre la red de Ethereum son menores comisiones, mayor velocidad e interoperabilidad. La dirección de billetera de la main net de Polygon es la que el usuario usara para realizar el login en el Ecosistema de Topacio. Usando asi mismo su billetera para guardar los fragmentos NFT necesarios para armar un NFT completo de TOPACIO, también la podrá usar para realizar diferentes transacciones, pagar comisiones, firmar y recibir recompensas del staking de los NFT que posea.
+
+El usuario de topacio, al ser poseedor de estos NFT's tendrá acceso a distintas funcionalidades de trading, que dependiendo de los parámetros que el mismo asigne, podrá automatizar sus tardes tanto en spot como en futuros, tomando siempre como premisa las ventajas que nuestra plataforma ofrece, como es el comprar  y/o  vender automáticamente en puntos de quiebre absoluto del mercado para operaciones de  mediana y larga duración ( swing trading ), asi como operaciones cortas (scalping, intra day) utilizando las operaciones de extremo y asi aprovechar el movimiento en tendencia  de punta a punta.
+Otra característica mas de la integración de los token no fungibles y tomando el cuenta el funcionamiento y la economía de Topacio Trading, ponemos a disposición del usuario una quema agresiva de su NFT el cual tendrá lógica de implementación a la hora de hacer crafting (módulo donde se destruirán y forjaran autenticas Gemas), generando así la quema constante y una economía sana dentro de la plataforma.
 
 # Que son los Fragmentos de Gema NFT's
 
-La generación génesis de fragmentos es la colección inicial representada por 24 variedades de fragmentos de gemas. Los cuales no solo son coleccionables sino que a todos sus holders iniciales que alcance reunir 8 fragmentos sin importar la variedad pondrá mintear en su liberación en NFT Completo de Topacio (totalmente funcional), dondé cada fragmento representa una de las caras del logo de topacio, a la hora de liberación de este módulo cabe destacar al realizar el claim del NFT de Topacio esos 8 fragmentos son quemados, así pudiendo alcanzar un NFT de Topacio Único que podrá ser de cualquier rareza totalmente aleatoria regida por SmartContract, aumentando la escasez, ya que no todo tiempo estaría disponible los fragmentos en su etapa inicial exclusivamente en temporadas de eventos.
+La generación génesis de fragmentos es la colección inicial representada por 24 variedades de fragmentos de gemas. Los cuales  son coleccionables, ademas a todos los holders iniciales que alcancen a reunir 8 fragmentos sin importar la variedad, pondrán mintear en su liberación un NFT Completo de Topacio (totalmente funcional), cada fragmento que “colécte” el usuario representa una de las caras del logo de topacio, en este módulo cabe destacar que al realizar el crafting del NFT de Topacio esos 8 fragmentos son quemados. Los NFT’s de Topacio son únicos ya que podrán ser de cualquier rareza y contar con distintos atributos, aumentando su escasez, exclusividad y usabilidad. 
+
+Los fragmentos de gemas NO ESTARÁN  disponibles todo el tiempo para su minteo y crafting, ya que  en su etapa inicial se conseguirán exclusivamente en temporadas de eventos, los cuales se irán dando a conocer a los participantes interesados, todo por medio de whitelist inscribiendo sus billeteras de polygon. Esta será en principio la única forma para ingresar al proyecto de Topacio Trading.
 
 <p align="center" width="100%">
   <img align="center" width="100%" src="https://docs.topacio.trade/_media/fragmentos.png">
@@ -33,13 +41,14 @@ La generación génesis de fragmentos es la colección inicial representada por 
 
 # ¿ Qué son las Subscripciones?
 
-Son 31 días de acceso al ecosistema de Topacio, acceso al canal privado de Telegram y a el bot de notificaciones por cada subscripción se obtiene un Ticket alojado en la blockchain, por cada 3 tickets acumulados podrás canjearlos por fragmentos de Gema y canje de premios de las bóvedas de Eventos también alojadas en la Blockchain. 
+Son 31 días de acceso al ecosistema de Topacio, a demas podrás unirte al canal privado de Telegram de la  comunidad exclusiva y tendrás disponible el canal del bot de notificaciones para que no te pierdas los movimientos del mercado y las mejores oportunidades que te brinda para realizar tus trades. 
+Por cada subscripción el usuario obtiene un Ticket alojado en la blockchain, por cada 3 tickets acumulados podrás canjearlos por fragmentos de Gema los cuales se podrán utilizar para crear una Gema completa de Topacio, ademas podrás canjear  premios adicionales de las bóvedas de Eventos.
 
 # ¿Como obtener fragmentos de gema?
 
-En su etapa inicial las subscripciones se habilitarán en eventos y por tiempo limitado y cupos limitados a una subscripción, este sistema de subscripciones corriendo en la blockchain, por cada subscripción adquirida asignará un ticket, y con 3 de estos tickets podrás canjear por uno de estos fragmentos alojado en una bóveda, la cual mensualmente se abastecerá con una cantidad de fragmentos finitos y escasos.
+En su etapa inicial las subscripciones se habilitarán en eventos,  por tiempo y cupos limitados, este sistema de subscripciones correrá en la blockchain de polygon. Por cada subscripción adquirida se asignará un ticket, una vez el usuario reúna 3 tickets los podrá canjear por un fragmento de gema alojado en una bóveda, la cual mensualmente se abastecerá con una cantidad de fragmentos finitos y escasos ejecutado por smart contracts.
 
-La segunda forma es atrevés del módulo de crafting cuando se encuentre activo, los usuarios que posean su NFT de Topacio podrán destruirlo en caso de querer reconstruir un nuevo NFT reuniendo 8 fragmentos, quemando este NFT y liberando Fragmentos de acuerdo a los atributos y rareza de su NFT.
+La segunda forma de obtener fragmentos es en el módulo de crafting, cuando este se encuentre activo los usuarios que posean su NFT de Topacio podrán destruirlo, esto en caso de querer reconstruir un nuevo NFT reuniendo 8 fragmentos, haciendo esto podrá obtener una Gema con nuevos atributos y rareza, asi mismo será saludable para el ecosistema pues consistiría en la quema y escasez de una activo como lo es un NFT.
 
 # ¿En que transformaras los fragmentos?
 
@@ -47,7 +56,9 @@ La segunda forma es atrevés del módulo de crafting cuando se encuentre activo,
 
 # ¿Qué pasa con mis tickets, si se agotaron los fragmentos disponibles en ese mes?
 
-Si a la hora de canje ya no hay fragmentos disponibles también existirá un módulo de recompensas y claim (canje) de los tickets, donde existirán premios de diversos tickets como extensión de subscripción, y NFT's de diferentes tipos tanto de fragmentos como de Topacio, todos únicamente podrás sacarlos de estas bóvedas con estos Tickets, variando dependiendo de la recompensa pedirá un número de tickets.
+Si al momento de querer cambiar un ticket ya no hay fragmentos disponibles, también existirá un módulo de recompensas, donde existirán distintos premios, como la extensión de una subscripción, NFT's de diferentes tipos, fragmentos, NFT's funcionales y cajas sorpresas.
+
+Dependiendo de la recompensa se pedirán un numero de tickets determinados, ya que no todas estas son de un valor único.
 
 <div class="contenedor-title-tokenomic" style="display: flex;justify-content: center;align-content: center;align-items: center;text-transform: uppercase;">
 
@@ -84,11 +95,12 @@ Todo el ecosistema de Topacio contará con la siguiente distribución, regido po
 
 #  Ecosistema Topacio
 
-En el ecosistema de Topacio Trade, contará con su Token de gobernanza nativo el cual tendrá uso 100% funcional, integrado a todo su ecosistema, el cual poseera un entorno rico en funcionalidades y uso en el mundo real, en donde el poseedor de un NFT de Topacio podrá acceder a todo este ecosistema pudiendo colocar automatizaciones de acuerdo a sus preferencias Gustos y estrategias, estas automatizaciones aparte de poseer su NFT existe una pequeñas comisión en su Token de Gobernanza Topacio, de igual modo podrás colocar disparos de automatizaciones en caso de que lo desee.
+El cosistema Topacio Trade contará con su Token de gobernanza  nativo (TOPACIO) el cual tendrá uso 100% integrado a todo su ecosistema, el cual poseerá un entorno rico en funcionalidades y uso en el mundo real. Cuando un usuario, poseedor de un NFT de Topacio quiera colocar automatizaciones de acuerdo a sus preferencias Gustos y estrategias, lo hará en forma de transacción en la blockchain de polygon, esta transacción se firmara desde su billetera web3 descentralizada y se cobrara una pequeña comisión en el Token de Gobernanza TOPACIO.
 
-Igualmente contará con un Marketplace independiente, pudiendo Obtener NFT del ecosistema de Topacio, donde su moneda nativa será Topacio Token de Gobernanza, incentivando Uso y consumo del mismo, cabe destacar que al alcanzar un minteo sobre los primeros 1000 NFT generados exclusivamente se podrán mintear con Topacio Token de gobernanza. Los NFT de su temporada Génesis será publicada y abierto el mint por periodos cortos y en eventos exclusivos.
+El usuario contará con un Marketplace independiente, desde el cual podrá Obtener un NFT de Topacio, para realizar dicha transacción el token que utilizara para pagar por este activo será el token de gobernanza TOPACIO, incentivando su uso y consumo.
+Cabe destacar que al alcanzar un minteo sobre los primeros 1000 NFT generados exclusivamente se podrán mintear con Topacio Token de gobernanza. Los NFT de su temporada Génesis será publicada y abierto el mint por periodos cortos y en eventos exclusivos.
 
-Dando uso completo y demanda de su Token en todo su ecosistema, aparte de su funcionalidad y consumo activo, cabe destacar que Topacio es sumamente escaso he incentiva el Staking para todos sus holder, con bóvedas de staking block contaran con rendimientos tanto anuales como flexibles, en sus módulos de staking y framing pudiendo potenciar tu staking agregando tus NFT. 
+Dando uso completo y demanda de su Token en todo su ecosistema, aparte de su funcionalidad y consumo activo, el token Topacio es sumamente escaso he incentiva el Staking para todos sus holder, con bóvedas de staking bloqueado contaran con rendimientos tanto anuales, en sus módulos de staking y framing pudiendo potenciar tu staking agregando tus NFT.
 
 # Utilidad del token
     
@@ -111,31 +123,31 @@ Dando uso completo y demanda de su Token en todo su ecosistema, aparte de su fun
 - Automatizaciones - para la ejecución de las automatizaciones se requerirá aparte de poseer un NFT de Topacio, se cobrará una pequeña comisión en su toquen nativo de gobernanza. (TOPACIO). RESUMEN nadie se querrá quedar sin topacio.
 
 # Objetivos Fituros y alcances
-    
-su objetivo será la automatizacion total y en un ecosistema tokenizado con funcionalidad real y activa, expansión continua, donde sus últimos puntos quedarán contemplado ampliación  e integración a otros Exchanges a medida de lo posible y abarcar análisis en el Stock Market (Mercado tradicional de acciones) Nasdaq SP500 Forex y otros.  
+
+El objetivo principal será la automatizacion total y en un ecosistema tokenizado con funcionalidad real y activa, expansión continua, donde sus uno de sus puntos y objetivos a completar será la ampliación e integración a múltiples exchanges e incluso abarcar el análisis del Stock Market (Mercado tradicional de acciones) Nasdaq SP500, Forex y otros.
+
 
 # Calendario de desbloqueo
 
-**RONDA SEMILLA** Socios Inversores y capitalización inicial para levantar el capital
-Esa liquidez será bloqueada para el capital y precio base que le dará el precio inicial cuando se lance la venta pública.
-Sumamente privada
-Cantidad de tiempo de bloqueo. 18 Meses (Block) % de liberación. 20% cada 3 meses.
-Precio de ronda. (en estudio aún  se estima alrededor de 0.10)
+**RONDA SEMILLA:** 
 
-**RONDA PRIVADA** - PRE VENTA
-acceso a través de White list limitada la cantidad máxima de tokens por persona
-Precio de ronda. (en estudio aún  se estima alrededor de 0.15)
-Cantidad de tiempo de bloqueo. 12 Meses (Block)
-% de liberación. 20% cada 3 meses
+Socios Inversores aportaran la capitalización inicial para fondear el proyecto en su génesis, la liquidez recaudada en esta ronda será bloqueada proporcionando ayudando al establecimiento del precio base que tendra cuando se lance la venta pública. Esta ronda será privada. EL tiempo de vesting para esta ronda es de 18 Meses (Block) % de liberación es 20% cada 3 meses, Luego de haber pasado el tiempo de bloqueo. Precio de ronda. (en estudio aún se estima alrededor de 0.10)
 
-**VENTA PÚBLICA Y LANZAMIENTO EN pancakeSwap** 
+**RONDA PRIVADA - PRE VENTA**  
+
+acceso a través de White list, será limitada la cantidad de inversión en usd por persona. Las condiciones para ser elegidos en la white list será informado con le tiempo suficiente para que los interesados en participar en esta ronda se prepare, (el precio del token adquirido en esta ronda se estima alrededor de 0.15) El vesting para esta ronda sera asi:. 12 Meses (Block) % de liberación. 20% cada 3 meses
+
+**VENTA PÚBLICA Y LANZAMIENTO EN pancakeSwap**
+
 venta pública sin bloqueo.
+
+
 
 # ¿Qué plan se tiene en mente para que la capitalización de mercado prevenga manipulaciones?
 
-se tiene pensado en su smart-contrac limitar el máximo de venta no permitir que existan ventas o transacciones superior al 1% del supply. (aún en evaluación ya que para inclusión y listados en exchanges exigen más de esa cantidad para inclusión)
+Se programara por medio de smartcontracts el no permitir que existan transacciones  de venta o compra superior al 1% del supply. (aún en evaluación ya que para inclusión y listados en exchanges exigen más de esa cantidad para inclusión)
 
-diversificar al máximo la distribución de la venta privada (PRE-VENTA) para captación y gran cantidad de público y contar con una distribución mixta en este lanzamiento, minimo un mes y medio antes (45 días) debe existir un buen marketing  y campañas fuertes y organizadas.
+Diversificar al máximo la distribución de la venta privada (PRE-VENTA) para captación y gran cantidad de público, contar con una distribución mixta en este lanzamiento, minimo un mes y medio antes (45 días) debe existir un buen marketing y campañas fuertes y organizadas.
 
 
 
