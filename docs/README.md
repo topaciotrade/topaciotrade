@@ -9,7 +9,15 @@
 ![Fragmentos](_media/fragmentos.png)
  -->
  
-Topacio nace como una herramienta que tiene el objetivo de apoyar a los traders, inversionistas y personas que quieren empezar en el mundo de las criptomonedas a tomar las decisiones más acertadas en los diferentes escenarios de volatilidad en el mercado, con el fin de evitar perder el capital por violentos movimientos y terminar atrapado en una mala posición por mucho tiempo o teniendo que cerrar la misma en perdidas. Es aquí donde nacen algunos cuestionamientos: ¿Hay alguna manera de identificar el mejor precio en un activo cuando queremos abrir una posición bien sea al alza o a la baja? ¿Existe alguna forma de detectar la reversión de una tendencia e irnos con el movimiento desde su origen? ¿cómo podemos detectar cuando hay manipulación del precio para no caer en las trampas de aquellos que mueven el mercado? Estas preguntas han sido el catalizador por el cual se inició el desarrollo de esta herramienta, la cual se centra en analizar y seleccionar los mejores momentos para comprar y vender tus criptomonedas, tanto en el mercado spot como en el mercado de futuros y asi evitar los rangos. Topacio en su esencia esta enfocado para operativas de extremos y no estar metido en el mercado de continuo sino operar los mejores momentos y con las probabilidades a tu favor.
+Topacio nace como una herramienta que tiene el objetivo de apoyar a los traders, inversionistas y personas que quieren empezar en el mundo de las criptomonedas a tomar las decisiones más acertadas en los diferentes escenarios de volatilidad en el mercado, con el fin de evitar perder el capital por violentos movimientos y terminar atrapado en una mala posición por mucho tiempo o teniendo que cerrar la misma en perdidas. 
+
+Es aquí donde nacen algunos cuestionamientos:
+    
+- ¿Hay alguna manera de identificar el mejor precio en un activo cuando queremos abrir una posición bien sea al alza o a la baja? 
+- ¿Existe alguna forma de detectar la reversión de una tendencia e irnos con el movimiento desde su origen? 
+- ¿cómo podemos detectar cuando hay manipulación del precio para no caer en las trampas de aquellos que mueven el mercado? 
+
+Estas preguntas han sido el catalizador por el cual se inició el desarrollo de esta herramienta, la cual se centra en analizar y seleccionar los mejores momentos para comprar y vender tus criptomonedas, tanto en el mercado spot como en el mercado de futuros y asi evitar los rangos. Topacio en su esencia esta enfocado para operativas de extremos y no estar metido en el mercado de continuo sino operar los mejores momentos y con las probabilidades a tu favor.
 
 Durante mucho tiempo, luego de varias evidencias, estudios, y pruebas de personas talentosas y apasionadas, hemos recopilado suficiente información congruente; esta Información la hemos aplicado a un análisis efectivo en diversos escenarios del mercado, para desarrollar ésta poderosa herramienta que llamamos Topacio Trade; la cual procesa varias capas de información alcanzando hasta un 90% de efectividad en distintas operativas temporales, realizando lanzamientos automatizados de compra y venta de acuerdo a la configuración fijada por el mismo usuario, conforme a sus planes de trading y preferencias de inversión.
 
