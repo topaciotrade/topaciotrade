@@ -45,7 +45,9 @@ Los fragmentos de gemas NO ESTARÁN  disponibles todo el tiempo para su minteo y
   <img align="center" width="100%" src="https://docs.topacio.trade/_media/fragmentos.png">
 </p>
 
+
 <iframe width="560" height="315" style="margin: 20px 0%;" src="https://www.youtube.com/embed/QthXbOpS5AA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # ¿ Qué son las Subscripciones?
 
