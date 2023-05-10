@@ -185,7 +185,7 @@ Diversificar al máximo la distribución de la venta privada (PRE-VENTA) para ca
 
 # Roadmap
 
- <img src="https://docs.topacio.trade/_media/roadmap.png" style="max-width: 25%;">
+ <img src="https://docs.topacio.trade/_media/roadmap.png" style="width: 100%;">
 
 
 Desarrollo Proyecto a largo plazo y de utilidad en el mundo real
