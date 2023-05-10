@@ -8,7 +8,28 @@
 
 ![Fragmentos](_media/fragmentos.png)
  -->
- 
+Hubo un momento en la historia de la tecnología cuando Bitcoin era solo un proyecto digital con un propósito dar empoderamiento al usuario a través de la criptografía y solventar el doble gasto sobre un activo digital y respaldado en la blockchain, apenas conocido por unos pocos visionarios que creían en su potencial. La idea de una moneda descentralizada que podría revolucionar el mundo financiero parecía descabellada, pero aquellos pocos pioneros perseveraron y vieron más allá de lo que el resto del mundo podía imaginar.
+
+
+¿Recuerdas esa primera transacción de un par de pizzas por diez mil BITCOINS? Pues bien, imagina poder ser parte de un proyecto que está en su nacimiento, un proyecto que promete llevar la automatización total al mundo del trading y combinar el mundo web3 de una manera única y disruptiva. Este proyecto es TopacioTrade.
+
+
+En TopacioTrade, estamos enfocados en crear una plataforma descentralizada que permita a los traders tener el control absoluto sobre sus inversiones. Nuestra visión es revolucionar el mundo financiero, y estamos seguros de que lo lograremos. Con TopacioTrade, no tendrás que preocuparte por intermediarios o terceros que controlen tus inversiones, donde realmente poseas el control total.
+
+
+¿Te imaginas ser parte de algo grande?, algo que está en su nacimiento, En TopacioTrade, estamos buscando personas apasionadas que quieran unirse a nuestro equipo y ayudarnos a crear algo increíble. Si eres un apasionado de la tecnología y la innovación, entonces este es el proyecto para ti, comparte, difunde y apoya, participa de forma activa.
+
+
+Te invitamos a conocer más sobre TopacioTrade, a ser parte de nuestra comunidad y a ayudarnos a revolucionar el mundo financiero. Juntos, podemos lograr grandes cosas y crear un futuro mejor para todos. ¡Únete a nosotros en TopacioTrade y sé parte de la revolución crypto y descentralizado!
+Imagina que tienes la oportunidad de ser parte de un proyecto en nacimiento que está llevando el trading a un nivel completamente nuevo. TopacioTrade es un proyecto descentralizado que está centrado en la automatización total del trading y, lo mejor de todo, combina todo el mundo web3 en una plataforma disruptiva y única.
+
+¿Qué significa esto para ti? Bueno, en primer lugar, significa que estás en el comienzo de algo grande. Estás en el punto de partida para una plataforma que está diseñada para cambiar el juego en el mundo de las criptomonedas y el trading.
+En segundo lugar, significa que tienes la oportunidad de tener un control absoluto sobre tus activos. Con TopacioTrade, siempre tendrás el control total de tus inversiones y transacciones. Nadie más tendrá acceso a tus fondos o información personal, lo que significa que podrás operar con total confianza y seguridad.
+
+Por último, pero no menos importante, TopacioTrade es una oportunidad para ser parte de una comunidad en crecimiento. Con la creciente popularidad de las criptomonedas y el trading descentralizado, estás en el lugar correcto en el momento adecuado. Puedes conectarte con otros traders y entusiastas de todo el mundo y ser parte de un movimiento que está revolucionando la forma en que se hace el trading.
+Entonces, ¿te animas a unirte a nosotros en este emocionante viaje? ¡No te pierdas la oportunidad de ser parte de algo grande! Conoce más sobre TopacioTrade y descubre cómo puedes ser parte de esta revolución en el mundo del trading. ¡Te esperamos!
+
+
 Topacio nace como una herramienta que tiene el objetivo de apoyar a los traders, inversionistas y personas que quieren empezar en el mundo de las criptomonedas a tomar las decisiones más acertadas en los diferentes escenarios de volatilidad en el mercado, con el fin de evitar perder el capital por violentos movimientos y terminar atrapado en una mala posición por mucho tiempo o teniendo que cerrar la misma en perdidas. 
 
 Es aquí donde nacen algunos cuestionamientos:
@@ -71,6 +92,11 @@ Si al momento de querer cambiar un ticket ya no hay fragmentos disponibles, tamb
 Dependiendo de la recompensa se pedirán un numero de tickets determinados, ya que no todas estas son de un valor único.
 
 <div class="contenedor-title-tokenomic" style="display: flex;justify-content: center;align-content: center;align-items: center;text-transform: uppercase;">
+
+
+# Roadmap
+
+ <img src="https://docs.topacio.trade/_media/roadmap.png" style="max-width: 25%;">
 
 # Tokenomic
 
