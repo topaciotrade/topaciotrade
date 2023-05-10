@@ -94,10 +94,6 @@ Dependiendo de la recompensa se pedirán un numero de tickets determinados, ya q
 <div class="contenedor-title-tokenomic" style="display: flex;justify-content: center;align-content: center;align-items: center;text-transform: uppercase;">
 
 
-# Roadmap
-
- <img src="https://docs.topacio.trade/_media/roadmap.png" style="max-width: 25%;">
-
 # Tokenomic
 
  <img src="https://docs.topacio.trade/_media/coin3D.png" style="max-width: 25%;">
@@ -188,6 +184,8 @@ Diversificar al máximo la distribución de la venta privada (PRE-VENTA) para ca
 
 
 # Roadmap
+
+ <img src="https://docs.topacio.trade/_media/roadmap.png" style="max-width: 25%;">
 
 
 Desarrollo Proyecto a largo plazo y de utilidad en el mundo real
