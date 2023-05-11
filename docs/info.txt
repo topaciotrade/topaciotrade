@@ -1,0 +1,5 @@
+# Install Global
+npm install docsify-cli --global
+
+# comands start local
+docsify serve docs
