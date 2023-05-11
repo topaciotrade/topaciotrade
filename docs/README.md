@@ -33,37 +33,32 @@ En segundo lugar, significa que tienes la oportunidad de tener un control absolu
 Por último, pero no menos importante, TopacioTrade es una oportunidad para ser parte de una comunidad en crecimiento. Con la creciente popularidad de las criptomonedas y el trading descentralizado, estás en el lugar correcto en el momento adecuado. Puedes conectarte con otros traders y entusiastas de todo el mundo y ser parte de un movimiento que está revolucionando la forma en que se hace el trading.
 Entonces, ¿te animas a unirte a nosotros en este emocionante viaje? ¡No te pierdas la oportunidad de ser parte de algo grande! Conoce más sobre TopacioTrade y descubre cómo puedes ser parte de esta revolución en el mundo del trading. ¡Te esperamos!
 
-Topacio nace como una herramienta que tiene el objetivo de apoyar a los traders, inversionistas y personas que quieren empezar en el mundo de las criptomonedas a tomar las decisiones más acertadas en los diferentes escenarios de volatilidad en el mercado, con el fin de evitar perder el capital por violentos movimientos y terminar atrapado en una mala posición por mucho tiempo o teniendo que cerrar la misma en perdidas. 
 
-Es aquí donde nacen algunos cuestionamientos:
-    
-- ¿Hay alguna manera de identificar el mejor precio en un activo cuando queremos abrir una posición, bien sea al alza o a la baja? 
-- ¿Existe alguna forma de detectar la reversión de una tendencia e irnos con el movimiento desde su origen? 
-- ¿cómo podemos detectar cuando hay manipulación del precio para no caer en las trampas de aquellos que mueven el mercado? 
+El proyecto Topacio Trade es una herramienta diseñada para apoyar a los traders, inversionistas y personas interesadas en el mundo de las criptomonedas a tomar decisiones acertadas ante los diversos escenarios de volatilidad del mercado, evitando así pérdidas de capital y malas posiciones a largo plazo.
 
-Estas preguntas han sido el catalizador por el cual se inició el desarrollo de esta herramienta, la cual se centra en analizar y seleccionar los mejores momentos para comprar y vender tus criptomonedas, tanto en el mercado spot como en el mercado de futuros y así evitar los rangos. Topacio en su esencia está enfocado para operativas de extremos y no estar metido en el mercado de continuo, sino operar los mejores momentos y con las probabilidades a tu favor.
+Este proyecto surge a partir de varios cuestionamientos importantes, tales como: ¿cómo podemos identificar el mejor precio para abrir una posición, ya sea al alza o a la baja? ¿Existe una forma de detectar la reversión de una tendencia y aprovechar el movimiento desde su origen? ¿Cómo podemos evitar caer en trampas de manipulación de precios por parte de aquellos que mueven el mercado?
 
-Durante mucho tiempo, luego de varios estudios, análisis y pruebas de personas talentosas y apasionadas, hemos recopilado suficiente información congruente; esta Información la hemos aplicado a un análisis efectivo en diversos escenarios del mercado, para desarrollar esta poderosa herramienta que llamamos Topacio Trade; la cual procesa varias capas de información alcanzando hasta un 90% de efectividad en distintas operativas temporales, realizando lanzamientos automatizados de compra y venta de acuerdo a la configuración fijada por el mismo usuario, conforme a sus planes de trading y preferencias de inversión.
+Topacio Trade se enfoca en analizar y seleccionar los mejores momentos para comprar y vender criptomonedas en el mercado spot y de futuros, evitando así los rangos. Esta herramienta está diseñada para operar en los extremos del mercado y no estar constantemente activa, operando en los momentos más favorables con las probabilidades a favor del usuario.
 
-Para completar la interactividad del usuario y el ecosistema de Topacio trading y contando con múltiples propósitos, Topacio cuenta un token de gobernanza llamado "TOPACIO", además el usuario podrá acceder a un NFT con utilidad para usar el sistema automatizado, estos NFT's tendrán su desarrollo en  un módulo de marketplace independiente donde el trader podrá comprar y vender su NFT, o sí prefiere, poder hacer staking y recibir como recompensa el token de gobernanza.  
+Luego de varios estudios, análisis y pruebas realizadas por personas talentosas y apasionadas, se ha recopilado información congruente que ha sido aplicada a un análisis efectivo en diversos escenarios del mercado, lo que ha dado lugar a la creación de Topacio Trade. Esta herramienta procesa varias capas de información y alcanza hasta un 90% de efectividad en distintas operativas temporales, realizando lanzamientos automatizados de compra y venta de acuerdo a la configuración fijada por el usuario, conforme a sus planes de trading y preferencias de inversión.
 
+Además de su potente funcionalidad, Topacio Trade ofrece una experiencia interactiva para el usuario y cuenta con su propio token de gobernanza llamado "TOPACIO". El usuario también puede acceder a un NFT con utilidad para utilizar el sistema automatizado. Estos NFT se podrán comprar y vender en un módulo de marketplace independiente, o se podrán hacer staking y recibir el token de gobernanza como recompensa.
 
 
 > Para estar al dia de las actualizaciones oficiales y eventos de `Topacio Trade`, te recomendamos seguir el canal oficial de twitter [@topacioTrade](https://twitter.com/TopacioTrade).
 
 
-# Características del proyecto Topacio
+# Las características del proyecto Topacio 
 
-El proyecto Topacio Trading tiene la visión y el propósito de la creación de una herramienta Única, disruptiva, totalmente diferente y completamente funcional. Al ser un proyecto que corre sobre la blockchain se ha escogido como nido la cadena de bloques de Polygon, como sabemos este un proyecto de escalabilidad de capa 2 el cual permite que aplicaciones descentralizadas puedan ejecutarse en una red, su ventaja a diferencia de operar directamente sobre la red de Ethereum son menores comisiones, mayor velocidad e interoperabilidad. La dirección de billetera de la main net de Polygon es la que el usuario usara para realizar el login en el Ecosistema de Topacio. Usando así mismo su billetera para guardar los fragmentos NFT necesarios para armar un NFT completo de TOPACIO, también la podrá usar para realizar diferentes transacciones, pagar comisiones, firmar y recibir recompensas del staking de los NFT que posea.
+Son únicas y disruptivas, ofreciendo una herramienta completamente funcional que se ejecuta en la cadena de bloques de Polygon. Esta red de capa 2 permite que las aplicaciones descentralizadas se ejecuten en una red rápida, interoperable y con comisiones menores en comparación con Ethereum. Los usuarios pueden acceder al ecosistema de Topacio Trading utilizando su dirección de billetera de la main net de Polygon, la cual también se usa para almacenar los fragmentos NFT necesarios para armar un NFT completo de TOPACIO.
 
-El usuario de topacio, al ser poseedor de estos NFT's tendrá acceso a distintas funcionalidades de trading, que dependiendo de los parámetros que el mismo asigne, podrá automatizar sus tardes tanto en spot como en futuros, tomando siempre como premisa las ventajas que nuestra plataforma ofrece, como es el comprar  y/o  vender automáticamente en puntos de quiebre absoluto del mercado para operaciones de  mediana y larga duración (swing trading), así como operaciones cortas (scalping, intra day) utilizando las operaciones de extremo y así aprovechar el movimiento en tendencia  de punta a punta.
-Otra característica más de la integración de los tókenes no fungibles y tomando él cuenta el funcionamiento y la economía de Topacio Trading, ponemos a disposición del usuario una quema agresiva de su NFT, el cual tendrá lógica de implementación a la hora de hacer crafting (módulo donde se destruirán y forjaran autenticas Gemas), generando así la quema constante y una economía sana dentro de la plataforma.
+Al poseer estos NFT's, los usuarios pueden acceder a diferentes funcionalidades de trading, automatizando sus operaciones tanto en el mercado spot como en el mercado de futuros. La plataforma ofrece la opción de comprar y/o vender automáticamente en puntos de quiebre absoluto del mercado, aprovechando el movimiento en tendencia de punta a punta. Además, Topacio Trading cuenta con una economía sana y un módulo de crafting que permite a los usuarios forjar auténticas gemas y destruir NFTs por medio del crafting dando el nacmiento de una mejorada, generando así una quema constante y una economía saludable dentro de la plataforma.
 
 # Que son los Fragmentos de Gema NFT's
 
-La generación génesis de fragmentos es la colección inicial representada por 24 variedades de fragmentos de gemas. Los cuales  son coleccionables, además a todos los holders iniciales que alcancen a reunir 8 fragmentos sin importar la variedad, pondrán mintear en su liberación un NFT Completo de Topacio (totalmente funcional), cada fragmento que “colecté” el usuario representa una de las caras del logo de topacio, en este módulo cabe destacar que al realizar el crafting del NFT de Topacio esos 8 fragmentos son quemados. Los NFT’s de Topacio son únicos, ya que podrán ser de cualquier rareza y contar con distintos atributos, aumentando su escasez, exclusividad y usabilidad. 
+La generación génesis de fragmentos es la colección inicial representada por 24 variedades de fragmentos de gemas comunes. Los cuales son coleccionables, además a todos los holders iniciales que alcancen a reunir 8 fragmentos sin importar la variedad, pondrán craftear (fusionar) en su liberación un NFT épico, el cual posee mejores rendimientos que los comunes a su vez estos Épicos al fusionarse 8 darán el nacimiento de 1 NFT Completo de Topacio (totalmente funcional), cada fragmento épico que “fusione” el usuario representa una de las caras del logo de topacio, en este módulo cabe destacar que al realizar el crafting del NFT de Topacio esos 8 fragmentos son quemados. Los NFT’s de Topacio son únicos, ya que podrán ser de cualquier rareza y contar con distintos atributos, aumentando su escasez, exclusividad y usabilidad. 
 
-Los fragmentos de gemas NO ESTARÁN  disponibles todo el tiempo para su minteo y crafting, puesto que  en su etapa inicial se conseguirán exclusivamente en temporadas de eventos, los cuales se irán dando a conocer a los participantes interesados, todo por medio de whitelist inscribiendo sus billeteras de polygon. Esta será en principio la única forma para ingresar al proyecto de Topacio Trading.
+Los fragmentos de gemas NO ESTARÁN disponibles todo el tiempo para su minteo y crafting, puesto que en su etapa inicial se conseguirán exclusivamente en temporadas de eventos, los cuales se irán dando a conocer a los participantes interesados, todo por medio de whitelist inscribiendo sus billeteras de polygon. Esta será en principio la única forma para ingresar al proyecto de Topacio Trading.
 
 <p align="center" width="100%">
   <img align="center" width="100%" src="https://docs.topacio.trade/_media/fragmentos.png">
@@ -166,23 +161,24 @@ El objetivo principal será la automatización total y en un ecosistema tokeniza
 
 **RONDA SEMILLA:** 
 
-Socios Inversores aportarán la capitalización inicial para fondear el proyecto en su génesis, la liquidez recaudada en esta ronda será bloqueada proporcionando ayudando al establecimiento del precio base que tendrá cuando se lance la venta pública. Esta ronda será privada. El tiempo de vesting para esta ronda es de 18 Meses (Block) % de liberación es 20% cada 3 meses, Luego de haber pasado el tiempo de bloqueo. Precio de ronda. (en estudio aún se estima alrededor de 0.10)
+Los inversores aportarán la capitalización inicial para fondear el proyecto en su génesis, y la liquidez recaudada en esta ronda será bloqueada para ayudar al establecimiento del precio base que tendrá cuando se lance la venta pública. Esta ronda será privada y el precio de ronda se estima alrededor de 0.10, aunque aún está en estudio. Además, el tiempo de vesting para esta ronda es de 18 meses (Block) y la liberación será del 20% cada 3 meses después de haber pasado el tiempo de bloqueo.
+
 
 **RONDA PRIVADA - PRE VENTA** 
 
-acceso a través de Whitelist, será limitada la cantidad de inversión en usd por persona. Las condiciones para ser elegidos en la whitelist será informado con el tiempo suficiente para que los interesados en participar en esta ronda se prepare, (el precio del token adquirido en esta ronda se estima alrededor de 0.15) El vesting para esta ronda será así:
-. 12 Meses (Block) % de liberación. 20% cada 3 meses
+El acceso se realizará a través de Whitelist y se limitará la cantidad de inversión en USD por persona. Las condiciones para ser elegido en la Whitelist se informarán con suficiente tiempo de anticipación para que los interesados en participar en esta ronda se preparen. El precio del token adquirido en esta ronda se estima alrededor de 0.15. Además, el vesting para esta ronda será de 12 meses (Block) y la liberación será del 20% cada 3 meses.
 
-**VENTA PÚBLICA Y LANZAMIENTO EN pancakeSwap**
 
-venta pública sin bloqueo.
+**VENTA PÚBLICA Y LANZAMIENTO EN QuickSwap**
+
+Finalmente, en la venta pública y lanzamiento en QuickSwap, no habrá bloqueo y la venta será abierta al público en general. Este detallado calendario de desbloqueo permite a los inversores saber exactamente cuándo y cómo se desbloquearán sus fondos, lo que ayuda a proporcionar transparencia y seguridad en el proceso de inversión.
 
 
 # ¿Qué plan se tiene en mente para que la capitalización de mercado prevenga manipulaciones?
 
-Se programará por medio de smartcontracts el no permitir que existan transacciones  de venta o compra superior al 1% del supply. (aun en evaluación, ya que para inclusión y listados en exchanges exigen más de esa cantidad para inclusión)
+Para prevenir manipulaciones en la capitalización de mercado del proyecto, se tiene en mente implementar medidas como la programación de smartcontracts que limiten las transacciones de venta o compra a un máximo del 1% del supply. Esta medida está en evaluación, ya que muchos exchanges exigen una cantidad mayor para la inclusión y el listado.
 
-Diversificar al máximo la distribución de la venta privada (PRE-VENTA) para captación y gran cantidad de público, contar con una distribución mixta en este lanzamiento, mínimo un mes y medio antes (45 días) debe existir un buen marketing y campañas fuertes y organizadas.
+Además, se busca diversificar al máximo la distribución de la venta privada o pre-venta del proyecto, para atraer a una gran cantidad de público y evitar que un grupo reducido tenga una influencia desmedida en el mercado. Se planea realizar una campaña de marketing y publicidad organizada y fuerte durante al menos un mes y medio antes del lanzamiento, para maximizar la captación de inversores y lograr una distribución equitativa de los tokens en circulación. Con estas medidas se busca evitar la manipulación del mercado y lograr una capitalización de mercado saludable y estable a largo plazo.
 
 
 
