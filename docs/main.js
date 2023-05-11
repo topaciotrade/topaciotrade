@@ -22,7 +22,7 @@ const data = {
     '12% Framing',
     '3% Ronda Semilla Bloqueado (12 meses)',
     '5% Venta Privada Bloqueado',
-    '5% Venta Publica Panckageswap',
+    '5% Venta Publica QuickSwap',
     '1% AirDrop Financiado por Parners',
     '5% parners inversion privada (Bloqueado a 12 meses)',
     '5% Marketing',
