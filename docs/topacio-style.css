@@ -25,6 +25,7 @@ main > button.sidebar-toggle{
 /* #444ddd */
 a.app-name-link img{
     filter: drop-shadow(7px 9px 4px rgba(2,0,36,0.5));
+    width: 65%;
 }
 article#main p{
     padding: 0 0.5em;
