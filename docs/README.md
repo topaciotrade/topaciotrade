@@ -34,16 +34,17 @@ Por último, pero no menos importante, TopacioTrade es una oportunidad para ser 
 Entonces, ¿te animas a unirte a nosotros en este emocionante viaje? ¡No te pierdas la oportunidad de ser parte de algo grande! Conoce más sobre TopacioTrade y descubre cómo puedes ser parte de esta revolución en el mundo del trading. ¡Te esperamos!
 
 
-El proyecto Topacio Trade es una herramienta diseñada para apoyar a los traders, inversionistas y personas interesadas en el mundo de las criptomonedas a tomar decisiones acertadas ante los diversos escenarios de volatilidad del mercado, evitando así pérdidas de capital y malas posiciones a largo plazo.
+El proyecto Topacio Trade es una herramienta diseñada para apoyar a los traders, inversionistas y personas interesadas en el mundo de las criptomonedas a tomar decisiones acertadas en los diversos escenarios de volatilidad del mercado.
 
-Este proyecto surge a partir de varios cuestionamientos importantes, tales como: ¿cómo podemos identificar el mejor precio para abrir una posición, ya sea al alza o a la baja? ¿Existe una forma de detectar la reversión de una tendencia y aprovechar el movimiento desde su origen? ¿Cómo podemos evitar caer en trampas de manipulación de precios por parte de aquellos que mueven el mercado?
+¿Cómo podemos identificar el mejor precio para abrir una posición en el mercado de las criptomonedas? ¿Cómo podemos evitar caer en trampas de manipulación de precios por parte de aquellos que mueven el mercado? Estas son algunas de las preguntas que nos hemos hecho antes de iniciar el desarrollo de Topacio Trade.
 
-Topacio Trade se enfoca en analizar y seleccionar los mejores momentos para comprar y vender criptomonedas en el mercado spot y de futuros, evitando así los rangos. Esta herramienta está diseñada para operar en los extremos del mercado y no estar constantemente activa, operando en los momentos más favorables con las probabilidades a favor del usuario.
+Nuestro equipo de expertos ha llevado a cabo varios estudios, análisis y pruebas para recopilar información congruente que ha sido aplicada a un análisis efectivo en diversos escenarios del mercado, lo que ha dado lugar a la creación de Topacio Trade.
 
-Luego de varios estudios, análisis y pruebas realizadas por personas talentosas y apasionadas, se ha recopilado información congruente que ha sido aplicada a un análisis efectivo en diversos escenarios del mercado, lo que ha dado lugar a la creación de Topacio Trade. Esta herramienta procesa varias capas de información y alcanza hasta un 90% de efectividad en distintas operativas temporales, realizando lanzamientos automatizados de compra y venta de acuerdo a la configuración fijada por el usuario, conforme a sus planes de trading y preferencias de inversión.
+Esta herramienta está diseñada para operar en los extremos del mercado, analizando y seleccionando los mejores momentos para comprar y vender criptomonedas en el mercado spot y de futuros, evitando así los rangos. Con una efectividad del 90% en distintas operativas temporales, Topacio Trade realiza lanzamientos automatizados de compra y venta de acuerdo a la configuración fijada por el usuario, conforme a sus planes de trading y preferencias de inversión.
 
-Además de su potente funcionalidad, Topacio Trade ofrece una experiencia interactiva para el usuario y cuenta con su propio token de gobernanza llamado "TOPACIO". El usuario también puede acceder a un NFT con utilidad para utilizar el sistema automatizado. Estos NFT se podrán comprar y vender en un módulo de marketplace independiente, o se podrán hacer staking y recibir el token de gobernanza como recompensa.
+Pero Topacio Trade no es solo una herramienta potente y efectiva, también ofrece una experiencia interactiva para el usuario y cuenta con su propio token de gobernanza llamado "TOPACIO" y token de recompensas "TMINE". Además, los usuarios pueden acceder a un ecosistema que combina todo el mundo Web3 y cuenta con un NFT Único en su tipo y con utilidad para utilizar el sistema automatizado y estos NFT se podrán comprar y vender en un módulo de marketplace independiente, o se podrán hacer staking y recibir el token de TMINE como recompensa, dando empoderamiento y control al usuario, orientado a la funcionalidad en el mundo real.
 
+En Topacio Trade, estamos comprometidos en apoyar a los traders, inversionistas y personas interesadas en el mundo de las criptomonedas a tomar decisiones acertadas en los diversos escenarios de volatilidad del mercado. Con nuestra herramienta, podrás evitar pérdidas de capital y quedar atrapado con malas posiciones a largo plazo, y aprovechar al máximo las oportunidades que ofrece el mercado. Únete a nosotros y descubre un nuevo nivel de trading.
 
 > Para estar al dia de las actualizaciones oficiales y eventos de `Topacio Trade`, te recomendamos seguir el canal oficial de twitter [@topacioTrade](https://twitter.com/TopacioTrade).
 
@@ -81,7 +82,10 @@ La segunda forma de obtener fragmentos es en el módulo de crafting, cuando este
 
 # ¿En que transformaras los fragmentos?
 
-<iframe width="560" height="315" style="margin: 20px 0%;" src="https://www.youtube.com/embed/AhD9VKwnyGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="450" style="margin: 20px 0%;" src="https://www.youtube.com/embed/l0vg3l_cJ-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<iframe width="560" height="450" style="margin: 20px 0%;" src="https://www.youtube.com/embed/AhD9VKwnyGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # ¿Qué pasa con mis tickets, si se agotaron los fragmentos disponibles en ese mes?
 
@@ -174,7 +178,7 @@ El acceso se realizará a través de Whitelist y se limitará la cantidad de inv
 Finalmente, en la venta pública y lanzamiento en QuickSwap, no habrá bloqueo y la venta será abierta al público en general. Este detallado calendario de desbloqueo permite a los inversores saber exactamente cuándo y cómo se desbloquearán sus fondos, lo que ayuda a proporcionar transparencia y seguridad en el proceso de inversión.
 
 
-# ¿Qué plan se tiene en mente para que la capitalización de mercado prevenga manipulaciones?
+**¿Qué plan se tiene en mente para que la capitalización de mercado prevenga manipulaciones?**
 
 Para prevenir manipulaciones en la capitalización de mercado del proyecto, se tiene en mente implementar medidas como la programación de smartcontracts que limiten las transacciones de venta o compra a un máximo del 1% del supply. Esta medida está en evaluación, ya que muchos exchanges exigen una cantidad mayor para la inclusión y el listado.
 
