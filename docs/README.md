@@ -84,6 +84,8 @@ La segunda forma de obtener fragmentos es en el módulo de crafting, cuando este
 
 <iframe width="560" height="450" style="margin: 20px 0%;" src="https://www.youtube.com/embed/l0vg3l_cJ-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<img src="./_media/crafting.png" alt="crafting" style="width: 100%;">
+
 
 <iframe width="560" height="450" style="margin: 20px 0%;" src="https://www.youtube.com/embed/AhD9VKwnyGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
