@@ -198,7 +198,7 @@ Desarrollo Proyecto a largo plazo y de utilidad en el mundo real
 - core núcleo Inicial Base integraciones con Binance y Bybit
 - Validación y certificación de múltiples capas de análisis y estrategias, en múltiples escenarios y tendencias.
 - Preparación y desarrollo de la comunidad Topacio Trade.
-- Integraciones a la BSC.
+- Integraciones funcionales en la blockchain.
 - Desarrollo de Token de gobernanza
 - Desarrollo de NFT's y utilidad real ligada a sus automatizaciones y consumos.
 - Ronda de Inversión Privada y Venta Semilla (Block - 12 meses).
